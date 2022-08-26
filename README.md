@@ -1,2 +1,2 @@
 # ECNN-C
-Code for paper: EEG-based Emotion Recognition via Efficient Convolutional Neural Network and Contrastive Learning
+Code for paper: ECNN-C:EEG-based Emotion Recognition via Efficient Convolutional Neural Network and Contrastive Learning
