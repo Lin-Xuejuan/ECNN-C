@@ -11,4 +11,13 @@
 * Then, after preprocessing, the original .mat data files are converted to .pkl data files. (For detailed preprocessing code, refer to the deap_pre_process.py in the ACRNN.)
 * You should modify the 'dataset_dir' in the data.py file based on the location of your datasets.
 * Using main.py to train and test the model (10-fold cross-validation).
+# Requirments
+* python>=3.7
+* pytorch>=1.4.0
+* torchvision>=0.8.1
+* Numpy>=1.19.2
+* librosa>=0.8.0  
+If you have any questions, please contact xuejuanlin@mail.hfut.edu.cn
+# Reference
+* gcForect
 
