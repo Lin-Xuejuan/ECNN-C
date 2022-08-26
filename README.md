@@ -20,4 +20,6 @@
 If you have any questions, please contact xuejuanlin@mail.hfut.edu.cn
 # Reference
 * [gcForest](https://github.com/Chang-Li-HFUT/Deep-Forest)
+* [SupContrast](https://github.com/HobbitLong/SupContrast)
+* [SoundCLR](https://github.com/alireza-nasiri/SoundCLR)
 
