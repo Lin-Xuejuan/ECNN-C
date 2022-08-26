@@ -5,3 +5,5 @@ Title: ECNN-C:EEG-based Emotion Recognition via Efficient Convolutional Neural N
 Authors: Chang Li, Xuejuan Lin, Yu Liu, Rencheng Song, Juan Cheng, and Xun Chen
 Institution: HeFei University of Technology 
 Published in: IEEE Sensors Journal
+# Instructions
+
