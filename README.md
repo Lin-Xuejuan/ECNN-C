@@ -17,7 +17,7 @@
 * torchvision>=0.8.1
 * Numpy>=1.19.2
 * librosa>=0.8.0  
-If you have any questions, please contact xuejuanlin@mail.hfut.edu.cn
+* *If you have any questions, please contact xuejuanlin@mail.hfut.edu.cn
 # Reference
 * [gcForest](https://github.com/Chang-Li-HFUT/Deep-Forest)
 * [SupContrast](https://github.com/HobbitLong/SupContrast)
